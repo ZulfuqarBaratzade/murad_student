@@ -1,1 +1,1 @@
-# murad_student
+#Murad Algo Academy Django Lesson
